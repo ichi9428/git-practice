@@ -1,6 +1,2 @@
-Hello
-master branch change
-test
-new change from master
-master change
-master conflict test
+練習0901
+差分テスト
