@@ -1,4 +1,4 @@
-﻿Hello
+Hello
 master branch change
 test
 new change from master
